@@ -1,0 +1,13 @@
+body {
+background-color: blue;
+}
+td {
+color: rgba(94, 6, 6, 0.863);
+background-color: white;
+margin-left: 20px;
+}
+div {
+border-spacing: 10px;
+background-color: yellow;
+width: fit-content;
+}
